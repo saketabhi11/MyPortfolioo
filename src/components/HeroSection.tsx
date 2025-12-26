@@ -47,7 +47,9 @@ const HeroSection = () => {
 
           {/* Summary */}
           <p className="text-lg text-muted-foreground max-w-2xl mx-auto mb-10 animate-fade-up opacity-0 stagger-3">
-            Final-year engineering student who builds, breaks, fixes, and rebuilds—learning through iteration and debugging a little better with every cup of coffee ☕
+            Final-year engineering student who builds, breaks, fixes, and rebuilds—learning through iteration and debugging a little better with every sip of cold coffee ☕
+</p>
+            <p className="text-lg text-muted-foreground max-w-2xl mx-auto mb-10 animate-fade-up opacity-0 stagger-3">
             Driven by curiosity, shaped by discipline , and excited to see where building takes me next 🚀
           </p>
 

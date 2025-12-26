@@ -50,12 +50,12 @@ const AboutSection = () => {
 I build products at the intersection of logic, performance, and impact—powered by the MERN stack, sharpened through C++ problem-solving (250+ challenges solved), and driven by a deep curiosity to turn ideas into scalable solutions. From validating concepts to shipping MVPs, I thrive in fast-paced environments where learning and execution move together.
 </p>
 <p>
-An athlete’s discipline shapes how I work—consistent, focused, and resilient under pressure. A good cup of coffee fuels long debugging sessions, late-night builds, and the obsession to get things just right. I enjoy breaking down complex problems, designing clean systems, and building from zero to one, always keeping the user and the bigger picture in focus.
+An athlete’s discipline shapes how I work—consistent, focused, and resilient under pressure. A good mug of cold coffee fuels long debugging sessions, late-night builds, and the obsession to get things just right. I enjoy breaking down complex problems, designing clean systems, and building from zero to one, always keeping the user and the bigger picture in focus.
 
 Always learning. Always building.
               </p>
               <p>
-Fueled by coffee, guided by discipline, and driven to create solutions that don’t just work—but matter.
+Fueled by cold coffee, guided by discipline, and driven to create solutions that don’t just work—but matter.
               </p>
             </div>
           </div>
